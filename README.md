@@ -1,4 +1,6 @@
 # Starbucks Capstone Challenge
+Read the [full blogpost](https://medium.com/@cerion42/starbucks-capstone-challenge-c5f324e7f831) for more details.
+
 This notebook applied Data Science methods to Starbucks customer data. This is a capstone project for the [Udacity](https://www.udacity.com/) Nanodegree program in Data Science.
 
 The data itself comes from a simulation made by Starbucks on how their customers respond to different campaigns.
